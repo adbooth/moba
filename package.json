@@ -1,0 +1,21 @@
+{
+  "name": "moba",
+  "version": "1.0.0",
+  "description": "Simple Multiplayer Online Tactical Battle Arena",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adbooth/moba.git"
+  },
+  "author": "Andrew D Booth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adbooth/moba/issues"
+  },
+  "homepage": "https://github.com/adbooth/moba#readme"
+}

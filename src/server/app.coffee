@@ -19,3 +19,5 @@ server = app.listen app.get('port'), ->
   host = server.address().address
   port = app.get 'port'
   console.log "Application server running at http://#{host}:#{port}"
+
+exports.server = server
